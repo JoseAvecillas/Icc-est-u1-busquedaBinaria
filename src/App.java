@@ -5,7 +5,7 @@ import views.ShowConsole;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        System.out.println("Jose Avecillas");
         ShowConsole sC = new ShowConsole();
         BusquedaBinaria bB= new BusquedaBinaria();
         PersonaController pC = new PersonaController();
